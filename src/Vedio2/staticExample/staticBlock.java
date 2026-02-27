@@ -1,4 +1,4 @@
-package staticExample;
+package Vedio2.staticExample;
 //this is a demo to show the initialisation of static variables using static block
 public class staticBlock {
     static int a;

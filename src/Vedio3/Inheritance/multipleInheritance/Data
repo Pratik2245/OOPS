@@ -1,0 +1,9 @@
+one class extending more than one class---not allowed in java
+
+class A have n        class B have n
+     |                      |
+     |                      |
+     |                      |
+            class C
+            c.n which will it access? so ambiguity will occur so multiple inheritance is not all
+            owed in java

@@ -1,4 +1,4 @@
-package SingletonClass;
+package Vedio2.SingletonClass;
 
 public class Singleton {
      int rollNo=23;

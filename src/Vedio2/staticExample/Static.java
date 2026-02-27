@@ -1,4 +1,4 @@
-package staticExample;
+package Vedio2.staticExample;
 
 public class Static {
     static void main() {
